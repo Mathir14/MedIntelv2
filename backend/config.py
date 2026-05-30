@@ -59,7 +59,7 @@ ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Vite dev server
     "http://127.0.0.1:5173",  # Vite dev server (alternative)
     "http://localhost:8000",
-    "https://medintelv2.vercel.app",    
+    "https://med-intelv2.vercel.app",    
 ]
 
 # File Upload Settings
