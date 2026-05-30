@@ -122,7 +122,6 @@ MedIntel now features a unified conversational AI interface:
 - Images (JPG, PNG) - OCR processed
 - Word documents (DOCX)
 
-See [CHAT_INTERFACE_GUIDE.md](CHAT_INTERFACE_GUIDE.md) for detailed usage instructions.
 
 ## Development Status
 
