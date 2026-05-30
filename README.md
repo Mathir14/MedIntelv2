@@ -4,6 +4,10 @@
 
 MedIntel is an advanced AI-driven healthcare intelligence system that bridges the gap between complex clinical information and real-world patient understanding.
 
+## Live Demo
+🌐 **Frontend:** https://med-intelv2.vercel.app  
+⚙️ **Backend API:** https://medintelv2.onrender.com/docs
+
 ## Features
 
 - 💬 **Conversational AI Chat Interface** - Natural language interaction with medical AI
