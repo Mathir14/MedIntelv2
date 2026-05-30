@@ -30,7 +30,7 @@ import useSTT from '../hooks/useSTT.js';
 import useTTS from '../hooks/useTTS.js';
 
 // Configure axios to use Vite proxy
-axios.defaults.baseURL = '';
+axios.defaults.baseURL = import.meta.env.VITE_API_URL || '';
 
 function ChatPage() {
   const [activeMode, setActiveMode] = useState('medical');
